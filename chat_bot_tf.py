@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 29 00:19:17 2023
 
-@author: omer_
+@author: OmerFarukDinc
 """
 
 # for speech-to-text
